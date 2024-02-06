@@ -1,0 +1,9 @@
+# Ignore all files with .csv extension
+*.csv
+fraudTrain.csv
+fraudTest.csv
+# Ignore a specific directory named "data"
+/data
+
+# Ignore all files in a specific directory
+/data/*
